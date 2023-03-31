@@ -1,18 +1,21 @@
 - XP so far: hospoda, stodola, boj, Prokrustovo lozarium, pronasledovani,
   boj: 6.
 
-- Terkas (vlastním jménem Kena Kutt) je nakažený lykantropií. Pro její vyléčení
-  potřebuje několik vzácných surovin, a alchymistu, který umí vyrobit
-  odpovídající lektvar. Alchymista ho umí vyrobit, protože sám je nakažený
-  lykantropií, a lektvar nastudoval.
-  - => někde v kraji řádí lykantrop!
+- Terkas (vlastním jménem Kena Kutt) je od krysodlaka nakažený lykantropií. Pro
+  její vyléčení potřebuje několik vzácných surovin, a alchymistu, který umí
+  vyrobit odpovídající lektvar.
+- Alchymistu znal: Ječmínek, jeho bývalý parťák, se kterým se rozhádal. Ječmínek
+  umí lektvar vyrobit, protože výrobu lektvaru nastudoval. A to udělal proto, že
+  sám je nakažený lykantropií -- pokousal je ten samý krysodlak.
 
-- Cílem předchozího útoku na osadu byla relikvie, Jeremiášova Slza, malý rudý
+- Krysodlak -- zřejmě někde ve městě žije krysodlak, má tam svou velkou smečku.
+
+- Cílem předchozího útoku na osadu byla relikvie, Jeremiášova Slza, malý čirý
   kámen, který měl ve své čelence vsazen Jeremiáš Radonoš. (Po něm je
   pojmenováno město Radonos.) Byl to mocný mág z prvního věku osidlování
-  kontinentu. Když umíral, rudé kameny z jeho kouzelné čelenky se proměnily v
+  kontinentu. Když umíral, čiré kameny z jeho kouzelné čelenky se proměnily v
   kapky krve a skapaly na zem. Tam znovu ztuhly, do tvaru slz. Napříč
-  kontinentem je těchto kamenů docela dost, ale dobře známé jsou jen některé. Ve
+  kontinentem je těchto kamenů pravděpodobně několik, ale známých je jen pár. Ve
   zdejším kostele byl pohřben zámožný obchodník, který se na sklonku života stal
   mecenášem opatství. Jedna Jeremiášova Slza byla v jeho majetku, a on se s ní
   nechal pohřbít.
@@ -20,18 +23,18 @@
     spousta orku, ale i spousta vesnicanu zarvala. Relikvii vsak ziskali.
 
 - Cílem přepadení v hospodě bylo ukrást roh jednorožce dvojčatům, lidským
-  hraničáři a válečníku, kteří pro kupce získali roh jednorožce. Orkové si
-  spletli místnost.
+  hraničáři a válečníku, Alar a Beldar, kteří pro kupce získali roh jednorožce.
+  Orkové si spletli místnost.
   - Terkas se to domákl, a kontaktoval je s nabídkou, že od nich roh koupí.
     Nechtěli ho prodat, už byli domluvení s obchodníkem.
 
-- Cílem přepadení v Prokrustově ložáriu byl sám kupec nakažený lykantropií,
-  který umí vyrobit lektvar na jeho léčbu.
+- Cílem přepadení v Prokrustově ložáriu byl sám Ječmínek, který umí vyrobit
+  lektvar na léčbu lykantropie.
 
 - Obecně je Terkas vystrašenej, má pocit, že se kolem nej stahuje smycka -- je
   exponovaný, spousta veci se mu pricita za vinu. Pri najezdu na vesnici prisel
   o hodne orku. Takze kdyz obchodnik blafuje, ze ho prijdou vysvobodit vojaci, a
-  pak se objevi druzina a zautoci, panikari, bere s sebou kumpana, co ma na
+  pak se objevi družina a zautoci, panikari, bere s sebou kumpana, co ma na
   baraku, a jdou tajnym vychodem pryc. Obchodnika postrkuji s sebou.
 
 - V chysich (dohromady 1 XP) (xxx asi jsou to spis stany, byli tam velice
@@ -46,10 +49,9 @@
   - mistnost pro kumpany, kde byl i obchodnik (1 XP)
   - Celkem dost penez a nejaky sikovny predmet.
   - V tajne schrane (1 XP) (xxx todo):
-    - Svitek popisujici relikvii, kterou orkove ukradli kratce predtim v te
-      osade.
+    - Svitek popisujici Jeremiášovy slzy
     - z knihy vytržená stránka pojednávající o lykantropii, kde je zmíněn a
-      zakroužkován roh jednorožce, který chce od té druhé družiny
+      zakroužkován roh jednorožce, který chce od Alara a Beldara.
   - Někde pod skříní cár papíru, kde je kus smlouvy o dílo na vyhotovení tajných
     bezpečnostních dveří s někým Steinni Úlfurdóttir. Není tam asi vidět, kde
     přesně, ale mělo by být možné to dohledat. Třeba podle sazby za cestovné,
@@ -65,11 +67,22 @@
   - Tam byl vuz, zalozni kun, bouda (dříve zázemí lomu) a dalsi kumpan. Zaprahli
     a vyjeli. Do věže.
 
-- Věž
-  - Její pozici lze triangulovat z informací na smlouvě.
-  - Tam bude obchodníka držet a pracovat na tom, aby jej donutil ke spolupráci.
+- Věž (asi spíš hrádek)
+  - Byla postavena ze Zardonelsky zuly, ktera se tezi v ruznych lomech v horach
+    Zraloci Zuby. Odtam se za levno plavi do Karmaty a dal do Doulenu.
+    - Blizko Karmaty je vez postavena.
+    - Remeslnice je z Lany, coz je od Karmaty asi 120 mil.
+      - Šipková past
+  - Tam bude Ječmínka držet a pracovat na tom, aby jej donutil ke spolupráci.
     - Mohl by zkusit sourozencům dát znovu nabídku. Teď, když jim zmizel kupec,
-      možná by přece prodali? Družina čuje něco nekalého a prodat nechce.
+      možná by přece prodali? Alar a Beldar čují něco nekalého a prodat
+      nechtějí.
     - Paralelně s tím na ně zkusí najmout naši družinu, ať roh získají?
-  - Má tu plnokrevný dung... jaké nestvůry?
-  - A loot.
+  - Je tam nějaká prostora zavřená dveřmi za 59 zlatých, loot by tedy měl být
+    aspoň 200, nebo něco, co opravdu chce držet jako tajemství.
+    - Mohl by tam mít své lykantropárium. O úplňku se tam zavře s nějakými
+      králíky. Z místnosti se v krysí podobě nedokáže dostat, je na to potřeba
+      nějak sofistikovaně odemčít ty tajné dveře. Ráno se probudí s mrtvolami
+      kolem sebe. Napustí tam z potoka vodu, aby to uklidil, a jede se dál.
+    - Sbírka monster? Panna? Vzácné zbraně? Jedna vzácná zbraň? Zakázané knihy?
+  - loot?
